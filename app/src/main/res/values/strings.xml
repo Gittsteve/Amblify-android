@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Amblify</string>
+    <string name="tagline">Dynamic AI Ambient Wallpapers</string>
+    <string name="set_wallpaper_success">Ambient wallpaper applied successfully!</string>
+    <string name="worker_scheduled">Background wallpaper sync scheduled.</string>
+    <string name="channel_name">Amblify Wallpaper Sync</string>
+    <string name="channel_description">Notifies when wallpaper transitions dynamically.</string>
+</resources>
